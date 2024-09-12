@@ -1,0 +1,1 @@
+//Elabore um programa que leia o úmero N e indique quantos valores inteiros e positivos dever se lidos a seguir. para cada número lido, mostre o valor lido e o fatorial desse valor.
